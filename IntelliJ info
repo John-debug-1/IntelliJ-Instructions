@@ -1,3 +1,5 @@
 ΙntelliJ IDEA Community Edition Version 2025.2.4
-Java, Java FX
-  Build System 
+ Select Java FX 
+ Language Java
+ Build System: Grandle
+ Oracle OpenJDK 23.0.2
